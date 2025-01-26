@@ -31,7 +31,7 @@ async function sendEmail(recipientEmail, password) {
       <p><strong>Email:</strong> ${recipientEmail}</p>
       <p><strong>Password:</strong> ${password}</p>
       <p>To change your password, click the link below:</p>
-      <a href="http://localhost:3000/changepassword" target="_blank">Change Password</a>
+      <a href="https://mmmm-green.vercel.app/changepassword" target="_blank">Change Password</a>
     `,
   };
 
